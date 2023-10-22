@@ -1,3 +1,2 @@
-# power_bi_analyst
-
-Repositório relacionado a formação de Power BI Analyst
+# Power BI Analyst
+### Repositório da formação em Power BI, incluindo, aulas, datasets e tarefas feitas.
